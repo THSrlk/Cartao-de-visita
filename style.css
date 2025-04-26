@@ -1,0 +1,58 @@
+header { 
+    background-color: black;
+    padding: 0px;
+}
+
+
+
+nav a {
+   text-transform: uppercase;
+   color:white;
+   font-weight: bold;
+   font-size: 22px;
+   text-decoration:none;
+}
+
+
+#logo {
+   width: 500px;
+}
+
+.caixa {
+    position: relative;
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+.produtos li {
+   display: inline-block;
+   text-align: center;
+   width: 50%;
+   vertical-align: top;
+   padding: 50px 40px;
+   box-sizing: border-box;
+   border: 2px solid black;
+   border-radius: 20px;
+   margin: 20px 50px;
+}
+
+
+.contato {
+   font-size: 22px;
+   font-weight: bold;
+   margin-top: 10px;
+}
+
+footer {
+   text-align: center;
+   background-color: black;
+   padding: 100px 0;
+}
+
+.copyright {
+   color: white;
+   font-size: 13px;
+   margin: 20px 10px 0;
+}
+
